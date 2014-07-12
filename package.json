@@ -1,7 +1,7 @@
 {
   "name": "Greasemonkey-unsafeWindow-Proxy",
   "description": "unsafeWindow Proxy for Firefox's Greasemonkey.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/azu/Greasemonkey-unsafeWindow-Proxy/",
   "repository": {
     "type": "git",
