@@ -1,5 +1,5 @@
 {
-  "name": "Greasemonkey-unsafeWindow-Proxy",
+  "name": "greasemonkey-unsafewindow-proxy",
   "description": "unsafeWindow Proxy for Firefox's Greasemonkey.",
   "version": "0.0.3",
   "homepage": "https://github.com/azu/Greasemonkey-unsafeWindow-Proxy/",
