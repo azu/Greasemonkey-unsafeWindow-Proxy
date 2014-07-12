@@ -1,0 +1,18 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mocha Tests</title>
+    <link rel="stylesheet" href="http://visionmedia.github.com/mocha/example/mocha.css"/>
+</head>
+<body>
+<div id="mocha"></div>
+<script src="https://rawgithub.com/visionmedia/mocha/master/mocha.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/chai/1.9.1/chai.js"></script>
+<script src="../unsafeWindow-proxy.js"></script>
+<script>mocha.setup('bdd')</script>
+<script src="unsafeWindow-proxy-test.js"></script>
+<script>
+    mocha.run();
+</script>
+</body>
+</html>
